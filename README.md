@@ -1,5 +1,7 @@
-<mark> Try the live app here : https://fake-job-posting-detection-system-fastapi.streamlit.app/
+## 🌐 Live Deployment
 
+- **Live Application (Streamlit):** [Open Fake Job Posting Detector](https://fake-job-posting-detection-system-fastapi.streamlit.app/)
+- **Backend API (Render):** [FastAPI Backend](https://fake-job-posting-detection-system.onrender.com)
 
 # 🛡️ Fake Job Posting Detection System
 
