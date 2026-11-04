@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="384" viewBox="0 0 1000 384" role="img" aria-label="Fraud rate (%) - when a trust signal is missing vs present">
+  <rect width="1000" height="384" rx="22" fill="#131824"/>
+  <text x="500.0" y="44" text-anchor="middle" font-family="'Segoe UI', Ubuntu, Arial, sans-serif" font-size="24" font-weight="800" fill="#e2e8f0">Fraud rate (%) - when a trust signal is missing vs present</text>
+  <rect x="290.0" y="64" width="16" height="16" rx="4" fill="#ff5b6e"/><text x="312.0" y="77" font-family="'Segoe UI', Ubuntu, Arial, sans-serif" font-size="14" fill="#cbd5e1">Signal missing / risky</text>
+  <rect x="540.0" y="64" width="16" height="16" rx="4" fill="#2fd4a0"/><text x="562.0" y="77" font-family="'Segoe UI', Ubuntu, Arial, sans-serif" font-size="14" fill="#cbd5e1">Signal present / on-site</text><text x="250" y="128" text-anchor="end" font-family="'Segoe UI', Ubuntu, Arial, sans-serif" font-size="17" font-weight="600" fill="#e2e8f0">No company profile</text>
+  <rect x="274" y="112" width="600" height="18" rx="9" fill="#1e293b"/>
+  <rect x="274" y="112" height="18" rx="9" fill="#ff5b6e" width="0"><animate attributeName="width" dur="9.0s" repeatCount="indefinite" values="0;0;532.2;532.2;0" keyTimes="0;0.0444;0.1889;0.92;1"/></rect>
+  <text x="888" y="126" font-family="'Segoe UI', Ubuntu, Arial, sans-serif" font-size="15" font-weight="700" fill="#f8fafc" opacity="0">17.74%<animate attributeName="opacity" dur="9.0s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.0444;0.1889;0.92;1"/></text>
+  <rect x="274" y="138" width="600" height="18" rx="9" fill="#1e293b"/>
+  <rect x="274" y="138" height="18" rx="9" fill="#2fd4a0" width="0"><animate attributeName="width" dur="9.0s" repeatCount="indefinite" values="0;0;57.3;57.3;0" keyTimes="0;0.0667;0.2111;0.92;1"/></rect>
+  <text x="888" y="152" font-family="'Segoe UI', Ubuntu, Arial, sans-serif" font-size="15" font-weight="700" fill="#f8fafc" opacity="0">1.91%<animate attributeName="opacity" dur="9.0s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.0667;0.2111;0.92;1"/></text><text x="250" y="194" text-anchor="end" font-family="'Segoe UI', Ubuntu, Arial, sans-serif" font-size="17" font-weight="600" fill="#e2e8f0">No company logo</text>
+  <rect x="274" y="178" width="600" height="18" rx="9" fill="#1e293b"/>
+  <rect x="274" y="178" height="18" rx="9" fill="#ff5b6e" width="0"><animate attributeName="width" dur="9.0s" repeatCount="indefinite" values="0;0;477.9;477.9;0" keyTimes="0;0.0889;0.2333;0.92;1"/></rect>
+  <text x="888" y="192" font-family="'Segoe UI', Ubuntu, Arial, sans-serif" font-size="15" font-weight="700" fill="#f8fafc" opacity="0">15.93%<animate attributeName="opacity" dur="9.0s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.0889;0.2333;0.92;1"/></text>
+  <rect x="274" y="204" width="600" height="18" rx="9" fill="#1e293b"/>
+  <rect x="274" y="204" height="18" rx="9" fill="#2fd4a0" width="0"><animate attributeName="width" dur="9.0s" repeatCount="indefinite" values="0;0;59.7;59.7;0" keyTimes="0;0.1111;0.2556;0.92;1"/></rect>
+  <text x="888" y="218" font-family="'Segoe UI', Ubuntu, Arial, sans-serif" font-size="15" font-weight="700" fill="#f8fafc" opacity="0">1.99%<animate attributeName="opacity" dur="9.0s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.1111;0.2556;0.92;1"/></text><text x="250" y="260" text-anchor="end" font-family="'Segoe UI', Ubuntu, Arial, sans-serif" font-size="17" font-weight="600" fill="#e2e8f0">No screening questions</text>
+  <rect x="274" y="244" width="600" height="18" rx="9" fill="#1e293b"/>
+  <rect x="274" y="244" height="18" rx="9" fill="#ff5b6e" width="0"><animate attributeName="width" dur="9.0s" repeatCount="indefinite" values="0;0;203.4;203.4;0" keyTimes="0;0.1333;0.2778;0.92;1"/></rect>
+  <text x="888" y="258" font-family="'Segoe UI', Ubuntu, Arial, sans-serif" font-size="15" font-weight="700" fill="#f8fafc" opacity="0">6.78%<animate attributeName="opacity" dur="9.0s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.1333;0.2778;0.92;1"/></text>
+  <rect x="274" y="270" width="600" height="18" rx="9" fill="#1e293b"/>
+  <rect x="274" y="270" height="18" rx="9" fill="#2fd4a0" width="0"><animate attributeName="width" dur="9.0s" repeatCount="indefinite" values="0;0;85.2;85.2;0" keyTimes="0;0.1556;0.3000;0.92;1"/></rect>
+  <text x="888" y="284" font-family="'Segoe UI', Ubuntu, Arial, sans-serif" font-size="15" font-weight="700" fill="#f8fafc" opacity="0">2.84%<animate attributeName="opacity" dur="9.0s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.1556;0.3000;0.92;1"/></text><text x="250" y="326" text-anchor="end" font-family="'Segoe UI', Ubuntu, Arial, sans-serif" font-size="17" font-weight="600" fill="#e2e8f0">Remote job (telecommuting)</text>
+  <rect x="274" y="310" width="600" height="18" rx="9" fill="#1e293b"/>
+  <rect x="274" y="310" height="18" rx="9" fill="#ff5b6e" width="0"><animate attributeName="width" dur="9.0s" repeatCount="indefinite" values="0;0;250.2;250.2;0" keyTimes="0;0.1778;0.3222;0.92;1"/></rect>
+  <text x="888" y="324" font-family="'Segoe UI', Ubuntu, Arial, sans-serif" font-size="15" font-weight="700" fill="#f8fafc" opacity="0">8.34%<animate attributeName="opacity" dur="9.0s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.1778;0.3222;0.92;1"/></text>
+  <rect x="274" y="336" width="600" height="18" rx="9" fill="#1e293b"/>
+  <rect x="274" y="336" height="18" rx="9" fill="#2fd4a0" width="0"><animate attributeName="width" dur="9.0s" repeatCount="indefinite" values="0;0;140.7;140.7;0" keyTimes="0;0.2000;0.3444;0.92;1"/></rect>
+  <text x="888" y="350" font-family="'Segoe UI', Ubuntu, Arial, sans-serif" font-size="15" font-weight="700" fill="#f8fafc" opacity="0">4.69%<animate attributeName="opacity" dur="9.0s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.2000;0.3444;0.92;1"/></text>
+</svg>

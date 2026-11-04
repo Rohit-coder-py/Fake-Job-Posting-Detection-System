@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="450" viewBox="0 0 1000 450" role="img" aria-label="Logistic Regression vs Random Forest (fraud class)">
+  <rect width="1000" height="450" rx="22" fill="#131824"/>
+  <text x="500.0" y="44" text-anchor="middle" font-family="'Segoe UI', Ubuntu, Arial, sans-serif" font-size="24" font-weight="800" fill="#e2e8f0">Logistic Regression vs Random Forest (fraud class)</text>
+  <rect x="290.0" y="64" width="16" height="16" rx="4" fill="#b07cff"/><text x="312.0" y="77" font-family="'Segoe UI', Ubuntu, Arial, sans-serif" font-size="14" fill="#cbd5e1">Logistic Regression</text>
+  <rect x="540.0" y="64" width="16" height="16" rx="4" fill="#2fd4a0"/><text x="562.0" y="77" font-family="'Segoe UI', Ubuntu, Arial, sans-serif" font-size="14" fill="#cbd5e1">Random Forest (deployed)</text><text x="150" y="128" text-anchor="end" font-family="'Segoe UI', Ubuntu, Arial, sans-serif" font-size="17" font-weight="600" fill="#e2e8f0">Accuracy</text>
+  <rect x="174" y="112" width="700" height="18" rx="9" fill="#1e293b"/>
+  <rect x="174" y="112" height="18" rx="9" fill="#b07cff" width="0"><animate attributeName="width" dur="9.0s" repeatCount="indefinite" values="0;0;670.8;670.8;0" keyTimes="0;0.0444;0.1889;0.92;1"/></rect>
+  <text x="888" y="126" font-family="'Segoe UI', Ubuntu, Arial, sans-serif" font-size="15" font-weight="700" fill="#f8fafc" opacity="0">95.83%<animate attributeName="opacity" dur="9.0s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.0444;0.1889;0.92;1"/></text>
+  <rect x="174" y="138" width="700" height="18" rx="9" fill="#1e293b"/>
+  <rect x="174" y="138" height="18" rx="9" fill="#2fd4a0" width="0"><animate attributeName="width" dur="9.0s" repeatCount="indefinite" values="0;0;686.3;686.3;0" keyTimes="0;0.0667;0.2111;0.92;1"/></rect>
+  <text x="888" y="152" font-family="'Segoe UI', Ubuntu, Arial, sans-serif" font-size="15" font-weight="700" fill="#f8fafc" opacity="0">98.04%<animate attributeName="opacity" dur="9.0s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.0667;0.2111;0.92;1"/></text><text x="150" y="194" text-anchor="end" font-family="'Segoe UI', Ubuntu, Arial, sans-serif" font-size="17" font-weight="600" fill="#e2e8f0">Precision</text>
+  <rect x="174" y="178" width="700" height="18" rx="9" fill="#1e293b"/>
+  <rect x="174" y="178" height="18" rx="9" fill="#b07cff" width="0"><animate attributeName="width" dur="9.0s" repeatCount="indefinite" values="0;0;379.8;379.8;0" keyTimes="0;0.0889;0.2333;0.92;1"/></rect>
+  <text x="888" y="192" font-family="'Segoe UI', Ubuntu, Arial, sans-serif" font-size="15" font-weight="700" fill="#f8fafc" opacity="0">54.26%<animate attributeName="opacity" dur="9.0s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.0889;0.2333;0.92;1"/></text>
+  <rect x="174" y="204" width="700" height="18" rx="9" fill="#1e293b"/>
+  <rect x="174" y="204" height="18" rx="9" fill="#2fd4a0" width="0"><animate attributeName="width" dur="9.0s" repeatCount="indefinite" values="0;0;700.0;700.0;0" keyTimes="0;0.1111;0.2556;0.92;1"/></rect>
+  <text x="888" y="218" font-family="'Segoe UI', Ubuntu, Arial, sans-serif" font-size="15" font-weight="700" fill="#f8fafc" opacity="0">100%<animate attributeName="opacity" dur="9.0s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.1111;0.2556;0.92;1"/></text><text x="150" y="260" text-anchor="end" font-family="'Segoe UI', Ubuntu, Arial, sans-serif" font-size="17" font-weight="600" fill="#e2e8f0">Recall</text>
+  <rect x="174" y="244" width="700" height="18" rx="9" fill="#1e293b"/>
+  <rect x="174" y="244" height="18" rx="9" fill="#b07cff" width="0"><animate attributeName="width" dur="9.0s" repeatCount="indefinite" values="0;0;619.1;619.1;0" keyTimes="0;0.1333;0.2778;0.92;1"/></rect>
+  <text x="888" y="258" font-family="'Segoe UI', Ubuntu, Arial, sans-serif" font-size="15" font-weight="700" fill="#f8fafc" opacity="0">88.44%<animate attributeName="opacity" dur="9.0s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.1333;0.2778;0.92;1"/></text>
+  <rect x="174" y="270" width="700" height="18" rx="9" fill="#1e293b"/>
+  <rect x="174" y="270" height="18" rx="9" fill="#2fd4a0" width="0"><animate attributeName="width" dur="9.0s" repeatCount="indefinite" values="0;0;416.8;416.8;0" keyTimes="0;0.1556;0.3000;0.92;1"/></rect>
+  <text x="888" y="284" font-family="'Segoe UI', Ubuntu, Arial, sans-serif" font-size="15" font-weight="700" fill="#f8fafc" opacity="0">59.54%<animate attributeName="opacity" dur="9.0s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.1556;0.3000;0.92;1"/></text><text x="150" y="326" text-anchor="end" font-family="'Segoe UI', Ubuntu, Arial, sans-serif" font-size="17" font-weight="600" fill="#e2e8f0">F1-score</text>
+  <rect x="174" y="310" width="700" height="18" rx="9" fill="#1e293b"/>
+  <rect x="174" y="310" height="18" rx="9" fill="#b07cff" width="0"><animate attributeName="width" dur="9.0s" repeatCount="indefinite" values="0;0;470.8;470.8;0" keyTimes="0;0.1778;0.3222;0.92;1"/></rect>
+  <text x="888" y="324" font-family="'Segoe UI', Ubuntu, Arial, sans-serif" font-size="15" font-weight="700" fill="#f8fafc" opacity="0">67.25%<animate attributeName="opacity" dur="9.0s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.1778;0.3222;0.92;1"/></text>
+  <rect x="174" y="336" width="700" height="18" rx="9" fill="#1e293b"/>
+  <rect x="174" y="336" height="18" rx="9" fill="#2fd4a0" width="0"><animate attributeName="width" dur="9.0s" repeatCount="indefinite" values="0;0;522.5;522.5;0" keyTimes="0;0.2000;0.3444;0.92;1"/></rect>
+  <text x="888" y="350" font-family="'Segoe UI', Ubuntu, Arial, sans-serif" font-size="15" font-weight="700" fill="#f8fafc" opacity="0">74.64%<animate attributeName="opacity" dur="9.0s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.2000;0.3444;0.92;1"/></text><text x="150" y="392" text-anchor="end" font-family="'Segoe UI', Ubuntu, Arial, sans-serif" font-size="17" font-weight="600" fill="#e2e8f0">ROC-AUC</text>
+  <rect x="174" y="376" width="700" height="18" rx="9" fill="#1e293b"/>
+  <rect x="174" y="376" height="18" rx="9" fill="#b07cff" width="0"><animate attributeName="width" dur="9.0s" repeatCount="indefinite" values="0;0;692.8;692.8;0" keyTimes="0;0.2222;0.3667;0.92;1"/></rect>
+  <text x="888" y="390" font-family="'Segoe UI', Ubuntu, Arial, sans-serif" font-size="15" font-weight="700" fill="#f8fafc" opacity="0">98.97%<animate attributeName="opacity" dur="9.0s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.2222;0.3667;0.92;1"/></text>
+  <rect x="174" y="402" width="700" height="18" rx="9" fill="#1e293b"/>
+  <rect x="174" y="402" height="18" rx="9" fill="#2fd4a0" width="0"><animate attributeName="width" dur="9.0s" repeatCount="indefinite" values="0;0;693.3;693.3;0" keyTimes="0;0.2444;0.3889;0.92;1"/></rect>
+  <text x="888" y="416" font-family="'Segoe UI', Ubuntu, Arial, sans-serif" font-size="15" font-weight="700" fill="#f8fafc" opacity="0">99.04%<animate attributeName="opacity" dur="9.0s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.2444;0.3889;0.92;1"/></text>
+</svg>

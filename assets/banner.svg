@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-label="Fake Job Posting Detection System banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0e14"/>
+      <stop offset="1" stop-color="#2a1530"><animate attributeName="stop-color" values="#2a1530;#1a2140;#2a1530" dur="8s" repeatCount="indefinite"/></stop>
+    </linearGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#d9b45a"/><stop offset="0.5" stop-color="#ffffff"/><stop offset="1" stop-color="#5b8cff"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ff5b6e" stop-opacity="0"/><stop offset="1" stop-color="#ff5b6e" stop-opacity="0.35"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1000" height="300" rx="24"/></clipPath>
+  </defs>
+  <rect width="1000" height="300" rx="24" fill="url(#bg)"/>
+  <g clip-path="url(#frame)">
+    <circle cx="140" cy="150" r="90" fill="#5b8cff" opacity="0.10"><animate attributeName="r" values="80;110;80" dur="6s" repeatCount="indefinite"/></circle>
+    <circle cx="870" cy="170" r="100" fill="#ff5b6e" opacity="0.10"><animate attributeName="r" values="100;75;100" dur="7s" repeatCount="indefinite"/></circle>
+    <rect width="1000" height="60" fill="url(#scan)"><animate attributeName="y" values="-60;300" dur="4.5s" repeatCount="indefinite"/></rect>
+  </g>
+  <text x="85" y="75" font-size="38" text-anchor="middle" opacity="0.92">🚨
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-14;0,0" dur="3.2s" begin="0s" repeatCount="indefinite"/></text>
+  <text x="195" y="255" font-size="38" text-anchor="middle" opacity="0.92">💼
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-14;0,0" dur="3.2s" begin="0.7s" repeatCount="indefinite"/></text>
+  <text x="300" y="60" font-size="38" text-anchor="middle" opacity="0.92">🔍
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-14;0,0" dur="3.2s" begin="1.3s" repeatCount="indefinite"/></text>
+  <text x="705" y="55" font-size="38" text-anchor="middle" opacity="0.92">⚠️
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-14;0,0" dur="3.2s" begin="0.4s" repeatCount="indefinite"/></text>
+  <text x="805" y="258" font-size="38" text-anchor="middle" opacity="0.92">✅
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-14;0,0" dur="3.2s" begin="1.0s" repeatCount="indefinite"/></text>
+  <text x="915" y="90" font-size="38" text-anchor="middle" opacity="0.92">📧
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-14;0,0" dur="3.2s" begin="1.6s" repeatCount="indefinite"/></text>
+  <text x="62" y="205" font-size="38" text-anchor="middle" opacity="0.92">🛡️
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-14;0,0" dur="3.2s" begin="1.9s" repeatCount="indefinite"/></text>
+  <text x="935" y="205" font-size="38" text-anchor="middle" opacity="0.92">💸
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-14;0,0" dur="3.2s" begin="0.2s" repeatCount="indefinite"/></text>
+  <text x="500" y="118" text-anchor="middle" font-family="'Segoe UI', Ubuntu, Arial, sans-serif" font-size="44" font-weight="800" fill="url(#title)">Fake Job Posting Detection System</text>
+  <clipPath id="c0"><rect x="275.6" y="150" height="40" width="0">
+    <animate attributeName="width" dur="12.0s" repeatCount="indefinite" values="0.0;0.0;448.8;448.8;0.0;0.0" keyTimes="0.0000;0.0000;0.1500;0.2917;0.3167;1.0000"/></rect></clipPath>
+  <text x="275.6" y="178" font-family="'Courier New', monospace" font-size="22" fill="#c7d2fe" clip-path="url(#c0)">Spot scam job ads before you apply</text>
+  <clipPath id="c1"><rect x="156.8" y="150" height="40" width="0">
+    <animate attributeName="width" dur="12.0s" repeatCount="indefinite" values="0.0;0.0;686.4;686.4;0.0;0.0" keyTimes="0.0000;0.3333;0.4833;0.6250;0.6500;1.0000"/></rect></clipPath>
+  <text x="156.8" y="178" font-family="'Courier New', monospace" font-size="22" fill="#c7d2fe" clip-path="url(#c1)">Random Forest  |  98.04% accuracy  |  100% precision</text>
+  <clipPath id="c2"><rect x="143.6" y="150" height="40" width="0">
+    <animate attributeName="width" dur="12.0s" repeatCount="indefinite" values="0.0;0.0;712.8;712.8;0.0;0.0" keyTimes="0.0000;0.6667;0.8167;0.9583;0.9833;1.0000"/></rect></clipPath>
+  <text x="143.6" y="178" font-family="'Courier New', monospace" font-size="22" fill="#c7d2fe" clip-path="url(#c2)">FastAPI backend  +  Streamlit app  +  bulk CSV scoring</text>
+  <rect x="440" y="222" width="120" height="4" rx="2" fill="#d9b45a"><animate attributeName="width" values="20;120;20" dur="3s" repeatCount="indefinite"/><animate attributeName="x" values="490;440;490" dur="3s" repeatCount="indefinite"/></rect>
+  <text x="500" y="262" text-anchor="middle" font-family="'Segoe UI', Ubuntu, Arial, sans-serif" font-size="15" fill="#aab3c9" letter-spacing="3">SCIKIT-LEARN  ·  FASTAPI  ·  STREAMLIT</text>
+</svg>
